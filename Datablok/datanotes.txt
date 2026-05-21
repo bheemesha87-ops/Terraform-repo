@@ -1,0 +1,10 @@
+Datablock
+import
+
+terraform state import
+
+Datablock
+
+1. For example scenario, we got q request to create a subnet. But they already created VPC manually or some other script.
+
+Now we need to create subnet using that script.
